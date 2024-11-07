@@ -1,0 +1,7 @@
+Tipo,Valor,Forma_Pagto
+Energia,200,Dinheiro
+Água, 500, Cartão
+Roupas, 150, Dinheiro
+Livros, 40, Cartão
+Internet, 90, Cartão
+Comida, 400, Cartão

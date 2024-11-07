@@ -1,0 +1,10 @@
+gameName = input("Digite o nome do jogo: ")
+gamePrice = float(input("Digite o preço do jogo: "))
+yearLaunch = int(input("Digite o ano de lançamento do jogo: "))
+planIncluded = bool(input("O Game Pass está incluso? "))
+
+print(f'### DADOS DO JOGO ###')
+print(f'Nome do jogo = {gameName}')
+print(f'Preço do jogo = {gamePrice}')
+print(f'Ano de lançamento do jogo = {yearLaunch}')
+print(f'Game Pass ativo? = {planIncluded}')
